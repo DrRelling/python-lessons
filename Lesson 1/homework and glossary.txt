@@ -1,0 +1,12 @@
+Homework: Write a program that:
+	* Takes the user's name
+	* Gets the length of the input
+	* Prints the length of the input squared
+Bonus points: Prints a 0 if the length is even or 1 if it's odd
+
+Glossary:
+	* Expression: a single instruction that evaluates (reduces) to a single value.
+	* Value: a bit of data that the program can use, like a number or a string of text.
+	* Operator: a symbol that does something with one or more values.
+	* IDLE: yes, it's a reference to Eric Idle.
+	* Concatenation: joining two or more strings of text together into one string.
