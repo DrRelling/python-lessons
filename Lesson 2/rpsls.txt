@@ -1,0 +1,39 @@
+Rock:
+	Wins against:
+		Lizard
+		Scissors
+	Loses to:
+		Paper
+		Spock
+		
+Paper:
+	Wins against:
+		Rock
+		Spock
+	Loses to:
+		Scissors
+		Lizard
+
+Scissors:
+	Wins against:
+		Paper
+		Lizard
+	Loses to:
+		Spock
+		Rock
+
+Lizard:
+	Wins against:
+		Spock
+		Paper
+	Loses to:
+		Rock
+		Scissors
+		
+Spock:
+	Wins against:
+		Scissors
+		Rock
+	Loses to:
+		Lizard
+		Paper

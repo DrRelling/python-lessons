@@ -1,0 +1,10 @@
+Homework: Modify the rock-paper-scissors game to play rock-paper-scissors-lizard-spock
+Bonus points:
+	* The example program has to check up to 6 elif statements to find the result. How could you change it so that it only checks a maximum of three elifs? Alternatively, if you have 10 elif statements for the rock-paper-scissors-lizard-spock, modify it so it only uses 5.
+	* If a user enters an uppercase letter, the program won't recognise it. Look up the "upper()" and "lower()" functions and use them to make the program accept upper and lowercase letters. These functions are used a little differently to the ones we've seen so far (because they're not technically functions, but we'll talk about that in a later lesson).
+
+Glossary:
+	* Flow control: how the program makes decisions about what to do next.
+	* Operator precedence: the order that Python evaluates operators if there's more than one in an expression.
+	* Xor: "exclusive or", similar to "or" but is true if only one of the values is True, not both.
+	
