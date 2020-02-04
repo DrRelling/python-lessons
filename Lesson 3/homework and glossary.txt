@@ -1,0 +1,17 @@
+Homework: Write the program described in the "The Collatz Sequence" section of the book.
+Bonus points:
+	* Add up all the numbers of the sequence and print them at the end, using globals.
+	* Add up all the numbers without using globals. This one is pretty tough and might require some research, so to get you started: you can return more than one value from a function, and you can assign more than one variable at the same time.
+	
+Glossary:
+	* Function: a reusable bit of code, like a mini-program within a program.
+	* Call: to use a function in your code.
+	* Parameter: a variable in the function definition. For example, in the following function, "name" is the parameter:
+		def sayHello(name):
+			print("Hello, " + name)
+	* Argument: the value that is in a parameter. For example, in sayHello("Adam"), "Adam" is the argument.		
+	* Passing a value to a function: calling a function with that value. 
+	* Exception: an event which has to be handled or your program will crash. Usually it's an error, but sometimes really important events will throw an exception to make sure they get noticed.
+	* Raise: cause an exception to occur. Some people refer to this as "throwing an exception" too.
+	
+	
