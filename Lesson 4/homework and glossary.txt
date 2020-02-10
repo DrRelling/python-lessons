@@ -1,0 +1,18 @@
+Homework: Two out of three practice projects.
+Bonus points: 
+	* Do all three practice projects!
+	* Coin flip:
+		* Ask the user how long a streak to look for in the "Coin Flip Streaks" exercise.
+		* Add a 1% chance of a coin landing on its edge (represented by E).
+	* Character picture grid:
+		* Add a function to the character picture grid to print the image flipped horizontally.
+		* Add a function to the character picture grid to print the image flipped vertically.
+		
+Glossary:
+	* List: a data type that contains multiple values in an ordered sequence. Created with square brackets.
+	* Tuple: similar to a list, but can't be modified once it's created. Created with regular brackets.
+	* Reference: a value that "points to" something in the computer's memory.
+	* Slicing: taking part of a list or string and creating a new list or string from it (a "slice")
+	* Immutable: something that can't be changed once it's created.
+	* Mutable: opposite of immutable, something that can be changed (mutated) after creation.
+	* Method: like a function, but called directly on a value or variable by adding a dot and the method name on the end.
