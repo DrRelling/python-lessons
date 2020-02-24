@@ -1,0 +1,16 @@
+Homework: "Chess Dictionary Validator" practice project from chapter 5
+Bonus points:
+* "Fantasty Game Inventory" practice project
+* "List to Dictionary Function for Fantasy Game Inventory"
+* Add a function to work out if a player has won for noughts and crosses. End the game and print which player has won, or print "Draw" if the game ends and neither side has.
+
+Unofficial bonus points for showing off:
+* Find out where the quotations in examples 5 and 6 are from!
+
+Glossary:
+* Dict: short for dictionary.
+* Dictionary: a data structure which stores data as a collection of keys and values.
+* Dictionary key: the thing used to look something up in the dictionary.
+* Dictionary value: the data associated with a key in a dictionary.
+* Dictionary item: the key and item pair in the dictionary.
+* pprint: A library for "pretty-print"ing something (hence the name)
